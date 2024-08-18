@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: "Playfair Display", serif;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: #F4EFE9;
+
+
+}
+
+.navbar-brand{
+ 
+
+  color: #AD7030;
+
+}
+.navbar-nav .nav-link.active {
+  color:#AD7030;
+  
+}
+
+.navbar-dark{
+--bs-navbar-color: rgba(255, 255, 255, 0.55);
+--bs-navbar-hover-color: rgb(231 0 0 / 75%);
+--bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
+--bs-navbar-active-color: #fff;
+--bs-navbar-brand-color: #fff;
+--bs-navbar-brand-hover-color: #060000;
+--bs-navbar-toggler-border-color: rgba(0, 0, 0, 0.1);
+--bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-toggler{
+  background-color: rgb(93, 63, 63);
+}
+
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900
+
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
