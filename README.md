@@ -2,6 +2,14 @@
 
 This is a full-stack e-commerce application built using Spring Boot for the backend, React for the frontend, and MySQL as the database.
 
+#UI
+![Screenshot (392)](https://github.com/user-attachments/assets/fcf26b69-1380-4af0-89ff-895a04b608eb)
+![Screenshot (391)](https://github.com/user-attachments/assets/f5887e57-e1a4-40b4-b79d-bd48834e23b3)
+![Screenshot (398)](https://github.com/user-attachments/assets/7d9fe621-793e-46e9-8c96-6c72fe6f941f)
+
+
+
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
